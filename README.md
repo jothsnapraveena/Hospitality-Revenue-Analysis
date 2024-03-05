@@ -16,9 +16,9 @@ By leveraging PowerBI's capabilities, the dashboard offers interactive and visua
 - **Daily Utilized Room Nights (DURN):** Measures the number of rooms actually occupied by guests each day.
 - **Daily Booked Room Nights (DBRN):** Signifies the number of rooms booked by guests each day.
 
-- 
-If the Average Daily Rate (ADR) remains constant over time, it suggests that the hotel is maintaining a fixed pricing strategy,
+  
+**If the Average Daily Rate (ADR) remains constant over time, it suggests that the hotel is maintaining a fixed pricing strategy,
 potentially missing out on opportunities for revenue optimization. Introducing dynamic pricing,
 which involves adjusting room rates based on demand fluctuations and market conditions,
 can help hotels maximize revenue by ensuring that room rates align with current demand levels and competitor pricing.
-By implementing dynamic pricing strategies, hotels can improve revenue potential, remain competitive, and enhance profitability in the hospitality industry.
+By implementing dynamic pricing strategies, hotels can improve revenue potential, remain competitive, and enhance profitability in the hospitality industry.**
