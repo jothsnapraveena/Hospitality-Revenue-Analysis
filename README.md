@@ -1,4 +1,4 @@
-# PowerBI Hospitality Metrics Dashboard
+# PowerBI Hospitality Revenue Dashboard
 
 Welcome to the PowerBI Hospitality Metrics Dashboard repository! This project focuses on analyzing key metrics in the hospitality industry using PowerBI to aid in revenue optimization strategies.
 
